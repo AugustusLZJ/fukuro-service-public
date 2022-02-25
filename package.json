@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "serverless-dynamodb-local": "^0.2.39",
+    "serverless-offline": "^6.8.0",
+    "serverless-s3-sync": "^1.15.0",
+    "serverless-s3bucket-sync": "^0.1.5",
+    "serverless-webpack": "^5.3.5",
+    "webpack": "^4.44.2",
+    "webpack-node-externals": "^2.5.2"
+  }
+}
